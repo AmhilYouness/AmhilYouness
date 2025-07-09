@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmhilYouness
-- 👀 I’m interested in Big data , cloud and AI
+- 👀 I’m interested in Big data, Cloud and AI
 - 📫 How to reach me amhilyou@gmail.com / younessamhil@gmail.com
 
 <!---
